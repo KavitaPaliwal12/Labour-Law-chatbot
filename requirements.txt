@@ -8,3 +8,7 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
+-e .
+
+# pinecone API Key
+#pcsk_4TnKCt_TptFfaNvtngRJ5X6vdfSYe5cx3H2UwkuifUkPVrknAUwevEiJjkjJabCKEHpdGB
